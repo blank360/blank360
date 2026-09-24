@@ -1,186 +1,136 @@
 # 👋 Hi, I'm Neerav Singh
 
-### 💻 Software Engineer · Backend Developer · AI Builder
+### Software Engineer · Backend Developer · AI Builder
 
-<p align="center">
-  <a href="https://veridian.org.in">
-    <img src="https://img.shields.io/badge/Co--Founder-Veridian-0A66C2?style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+Computer Science undergraduate at **KIIT University** who enjoys building
+backend systems, AI-powered applications, and distributed software.
+
+I like turning ideas into working products — from APIs and microservices
+to AI applications and full-stack systems.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science undergraduate at **KIIT**
-- 💻 Building full-stack, backend and distributed systems
-- 🤖 Interested in **AI Engineering, Backend Engineering & System Design**
-- 🚀 Co-Founder & Developer at **[Veridian](https://veridian.org.in)**
-- 🧠 Solved **400+ programming problems** across multiple platforms
-- 🔨 Currently building a **distributed professional networking system**
-- 🌱 Learning **Spring Boot, Microservices, Kafka, Docker & Kubernetes**
+- 🎓 B.Tech Computer Science & Engineering @ **KIIT University**
+- 💻 Focused on **Backend Development & Software Engineering**
+- 🤖 Building applications with **AI/LLMs**
+- 🏗️ Learning and building with **Spring Boot & Microservices**
+- ⚡ Experience with **Node.js, React, React Native & REST APIs**
+- 🗄️ Working with **MongoDB, Firebase, PostgreSQL & Neo4j**
+- 📨 Exploring **Apache Kafka & event-driven systems**
+- 🐳 Learning **Docker & Kubernetes**
+- 🧩 Solved **400+ programming problems**
 - 🏆 Participated in multiple hackathons and technology competitions
-- ⚡ I enjoy turning ideas into working products
+- 🚀 Co-Founder & Developer at **[Veridian](https://veridian.org.in)**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c,sql" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c" />
 </p>
 
-### Frontend & Backend
+## Frontend & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,spring" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring" />
 </p>
 
-### Databases & Infrastructure
+## Databases & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,neo4j,docker,kubernetes,kafka" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,docker,kubernetes,kafka" />
 </p>
 
-### Tools
+## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel" />
 </p>
 
 ---
 
-## 🚀 What I'm Building
+# 🚀 What I'm Building
 
-### 🔹 Veridian
+## 🔹 Veridian
 
-**AI-powered career solution for students and graduates**
+AI-powered career solution designed to help students and graduates bridge
+the gap between academic learning and employment.
 
-Working on:
-
-- Career intelligence
-- AI-powered interview preparation
-- Job discovery
-- Skill development workflows
-- Coding profile aggregation
-- Portfolio and CV tools
+**Tech:** React Native · Node.js · Express.js · Firebase · AI
 
 🌐 **[veridian.org.in](https://veridian.org.in)**
 
 ---
 
-### 🔹 Distributed Professional Networking Platform
+## 🔹 ASHA Intelligence
 
-A backend-focused distributed system built using:
+AI Health Co-Pilot for community health workers.
 
-`Spring Boot` · `Microservices` · `Neo4j` · `Apache Kafka` · `Docker`
+A full-stack AI application providing voice-based symptom triage,
+structured guidance, and longitudinal village health records.
 
-Working on:
-
-- Microservice architecture
-- Professional relationship modelling
-- Authentication
-- Event-driven communication
-- Notification services
-- Distributed backend systems
+**Tech:** React · Node.js · Express.js · Firebase · Groq
 
 ---
 
-### 🔹 ASHA Intelligence
+## 🔹 Distributed Professional Networking Platform
 
-**AI Health Co-Pilot for Community Health Workers**
+A microservice-based professional networking system built while exploring
+distributed backend architecture.
 
-Built a full-stack AI application using:
+**Tech:** Spring Boot · Microservices · Neo4j · Apache Kafka · Docker
 
-`React` · `Node.js` · `Express.js` · `Firebase` · `Groq`
-
-Features include:
-
-- Voice-based symptom input
-- AI-powered triage
-- Risk assessment
-- Village health memory
-- PHC alerts
-- Browser-based deployment
+Currently exploring authentication, service communication, event-driven
+notifications, and containerized services.
 
 ---
 
-## 🧠 Problem Solving
+# 🧠 Problem Solving
 
 ### 400+ Problems Solved
 
-I practice Data Structures & Algorithms across:
+I regularly practice Data Structures & Algorithms across:
 
-- LeetCode
-- CodeChef
-- Codeforces
-- GeeksforGeeks
-- HackerRank
+- 🟡 LeetCode
+- 🔵 CodeChef
+- ⚫ Codeforces
+- 🟢 GeeksforGeeks
+- 🟠 HackerRank
 
 ### Core Areas
 
-`Arrays` · `Strings` · `Hashing` · `Binary Search` · `Recursion`
-
-`Trees` · `Graphs` · `Dynamic Programming` · `Greedy`
-
-`Sliding Window` · `Two Pointers` · `Sorting`
+`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues` · `Trees`  
+`Binary Search` · `Graphs` · `Recursion` · `Dynamic Programming`  
+`Sorting` · `Hashing` · `Greedy` · `Heaps`
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-- 🥇 **Smart India Hackathon (SIH) — Participant**
-- 🚀 Participated in multiple hackathons and technology competitions
-- 💡 Built and launched startup/product initiatives
-- 🧩 400+ programming problems solved across competitive programming platforms
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blank360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blank360&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+- 🎯 Solved **400+ programming problems** across multiple competitive
+  programming platforms.
+- 🏆 **Smart India Hackathon (SIH) — Participant**
+- 🚀 Participated in multiple hackathons and technology competitions.
+- 🤖 Built AI-powered solutions for real-world problem statements.
 
 ---
 
-## 🔥 Contribution Streak
+# 📚 Currently Learning
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=blank360&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://veridian.org.in">
-<img src="https://img.shields.io/badge/Website-Veridian-0A66C2?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/blank360">
-<img src="https://img.shields.io/badge/GitHub-blank360-181717?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💻 Build → Break → Learn → Repeat
-
-</p>
+```text
+Spring Boot
+     ↓
+Microservices
+     ↓
+Apache Kafka
+     ↓
+Docker
+     ↓
+Kubernetes
+     ↓
+Distributed Systems
